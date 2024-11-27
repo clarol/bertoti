@@ -142,3 +142,6 @@ class TesteFloricultura {
         assertEquals(solPlantas.get(0).getTipo(), sol.getTipo());
     }
 }
+
+## 22/11 - 5) Aprsentação do BOT com Ollama
+https://github.com/thiagosabreu/TelegramChatBotWithOllama
