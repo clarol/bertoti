@@ -143,5 +143,10 @@ class TesteFloricultura {
     }
 }
 
-## 22/11 - 5) Aprsentação do BOT com Ollama
-https://github.com/thiagosabreu/TelegramChatBotWithOllama
+---
+
+## 01/11 - 4) Atividade diagrama de classes UML
+
+[![Diagrama](https://github.com/clarol/bertoti/blob/64d8d05bb3cc1dc54e53491eb660a37b2eb40b4c/EngSoftware/uml_bertoti.png)]
+
+
